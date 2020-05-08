@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\Arrays\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\mr_ho\source\repos\Arrays\Stacks\bin\Debug\Stacks.exe
+C:\Users\mr_ho\source\repos\Arrays\Stacks\bin\Debug\Stacks.pdb
+C:\Users\mr_ho\source\repos\Arrays\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\Arrays\Stacks\obj\Debug\Stacks.exe
+C:\Users\mr_ho\source\repos\Arrays\Stacks\obj\Debug\Stacks.pdb

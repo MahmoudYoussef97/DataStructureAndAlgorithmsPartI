@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\Arrays\Queues\bin\Debug\Queues.exe.config
+C:\Users\mr_ho\source\repos\Arrays\Queues\bin\Debug\Queues.exe
+C:\Users\mr_ho\source\repos\Arrays\Queues\bin\Debug\Queues.pdb
+C:\Users\mr_ho\source\repos\Arrays\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\Arrays\Queues\obj\Debug\Queues.exe
+C:\Users\mr_ho\source\repos\Arrays\Queues\obj\Debug\Queues.pdb
